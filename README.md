@@ -1,7 +1,7 @@
 Uyghur Terms
 =====================
 
-A list of Uyghur terms in more than 80 different fields such as Physics, chemistry, astronomy .etc.
+A list of Uyghur terms in more than 80 different fields such as physics, chemistry and astronomy etc.
 
 v0.1   
 -Size: 176,106 terms.
